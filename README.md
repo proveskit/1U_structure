@@ -1,2 +1,2 @@
 # 1U_structure
-The 1U Kit structure. 
+This repo contains files for the baseline 1U CubeSat Kit structure along with some other helpful tools! 
