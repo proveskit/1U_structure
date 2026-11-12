@@ -10,4 +10,3 @@ The `feet/` folder holds the current foot designs used on every PROVES Kit. They
 | `feet/foot_solid.step` | 13.9 × 23.7 × 13.9 | Solid |
 | `feet/foot_gusset.step` | 14.0 × 23.8 × 14.0 | Bored through, with a gusset |
 
-`1U Assembly.step` still shows the retired feet.
